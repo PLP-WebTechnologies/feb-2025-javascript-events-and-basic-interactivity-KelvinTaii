@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  button:hover {
+    background-color: lightblue;
+    cursor: pointer;
+  }
+  .tab-content {
+    margin-top: 10px;
+  }
+  
